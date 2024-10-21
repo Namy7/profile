@@ -1,4 +1,5 @@
 # Hello Everyone! I'm Namrata Vihol
+![NV](https://github.com/user-attachments/assets/8893965e-82e2-4b3e-8a2c-35e591707df5)
 # Professional background
 ### I have 5 years of experience in digital marketing, focusing on SEO, content strategy, and social media. I've led successful campaigns that significantly increased online traffic and brand visibility. Currently, I'm looking to pivot into a data analyst role, building on my skills in data-driven decision-making and analytics.
 # Why taking this class 
