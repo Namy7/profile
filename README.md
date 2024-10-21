@@ -1,5 +1,4 @@
 # Hello Everyone! I'm Namrata Vihol
-
 # Professional background
 ## I have 5 years of experience in digital marketing, focusing on SEO, content strategy, and social media. I've led successful campaigns that significantly increased online traffic and brand visibility. Currently, I'm looking to pivot into a data analyst role, building on my skills in data-driven decision-making and analytics.
 # Why taking this class 
