@@ -3,7 +3,8 @@
 # Professional background
 ### I have 5 years of experience in digital marketing, focusing on SEO, content strategy, and social media. I've led successful campaigns that significantly increased online traffic and brand visibility. Currently, I'm looking to pivot into a data analyst role, building on my skills in data-driven decision-making and analytics.
 ![LinkedIn](https://github.com/Namy7/profile/blob/main/NV.png)
-[Connect with me on LinkedIn](www.linkedin.com/in/namratavihol)
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/namratavihol/)
 # Why taking this class 
 * Career Transition: I’m looking to shift from digital marketing to data analysis to explore new career opportunities and challenges.
 * Enhancing Skills: I want to build strong skills in data analysis, including data visualization, SQL, and statistical modeling, to complement my existing marketing background.
