@@ -6,11 +6,11 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/namratavihol/)
 # Why taking this class 
-* Career Transition: I’m looking to shift from digital marketing to data analysis to explore new career opportunities and challenges.
-* Enhancing Skills: I want to build strong skills in data analysis, including data visualization, SQL, and statistical modeling, to complement my existing marketing background.
-* Data-Driven Decision Making: My goal is to deepen my understanding of data-driven decision-making processes to better analyze trends and derive actionable insights.
-* Industry Demand: The demand for data analysts is growing, and I want to position myself for roles in this high-demand field with specialized training.
-* Passion for Working with Data: I’ve always enjoyed working with data in marketing, and this bootcamp will help me focus on data analytics full-time.
+- **Career Transition:** I’m looking to shift from digital marketing to data analysis to explore new career opportunities and challenges.
+- **Enhancing Skills:** I want to build strong skills in data analysis, including data visualization, SQL, and statistical modeling, to complement my existing marketing background.
+- **Data-Driven Decision Making:** My goal is to deepen my understanding of data-driven decision-making processes to better analyze trends and derive actionable insights.
+- **Industry Demand:** The demand for data analysts is growing, and I want to position myself for roles in this high-demand field with specialized training.
+- **Passion for Working with Data:** I’ve always enjoyed working with data in marketing, and this bootcamp will help me focus on data analytics full-time.
 # What previous experiences with coding are
 ###  I gained basic coding experience during my master's program while working on various projects. I primarily worked with Python and R for data analysis and visualization tasks, which helped me understand data manipulation techniques. I applied coding skills in projects that involved analyzing datasets, conducting statistical analyses, and visualizing results to support research findings. Collaborated with classmates on group projects, enhancing my coding skills and learning how to leverage code for problem-solving in real-world scenarios.
 # Some fun facts about yourself
